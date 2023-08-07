@@ -1,0 +1,11 @@
+/* body {
+    background-color: red;
+} */
+
+main > div {
+    height: calc(100vh);
+}
+
+.text-sm {
+    font-size: 1.5rem;
+}
